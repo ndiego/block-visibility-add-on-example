@@ -82,13 +82,3 @@ addFilter(
 	'block-visibility-add-on-example/controls',
 	addExampleControls
 );
-
-/**
- * You also need to manually add the Example Control to Block Visibility Pro.
- * Without this, the Example Control will not be available in Visibility Presets.
- */
-addFilter(
-	'blockVisibilityPro.controls',
-	'block-visibility-add-on-example/controls',
-	addExampleControls
-);
