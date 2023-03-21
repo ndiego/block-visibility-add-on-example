@@ -79,7 +79,7 @@ function addControlSetControls( ControlSetControls ) {
 		return (
 			<>
 				<ControlSetControls { ...props } />
-				<Fill name={ 'ControlSetControlsMiddle-' + uniqueIndex }>
+				<Fill name={ 'ControlSetControls-' + uniqueIndex }>
 					<ExampleControl { ...props } />
 				</Fill>
 			</>
@@ -91,5 +91,5 @@ addFilter(
 	'blockVisibility.addControlSetControls',
 	'block-visibility-add-on-example/add-control-set-controls',
 	addControlSetControls,
-	15 // Filter after the Pro add-on.
+	15 // Use priority 15 or greater.
 );

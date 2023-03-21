@@ -69,7 +69,7 @@ function addVisibilityControls( VisibilityControlSettings ) {
 	return ( props ) => (
 		<>
 			<VisibilityControlSettings { ...props } />
-			<Fill name="VisibilityControlsMiddle">
+			<Fill name="VisibilityControls">
 				<ExampleControl { ...props } />
 			</Fill>
 		</>
@@ -80,5 +80,5 @@ addFilter(
 	'blockVisibility.VisibilityControls',
 	'block-visibility-add-on-example/add-visibility-controls',
 	addVisibilityControls,
-	15 // Use priority 15 or greater to avoid conflicts with Pro add-on.
+	15 // Use priority 15 or greater.
 );
