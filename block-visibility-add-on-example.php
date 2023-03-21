@@ -3,7 +3,7 @@
  * Plugin Name:         Block Visibility Add-on Example
  * Plugin URI:          https://www.blockvisibilitywp.com/
  * Description:         An example add-on for Block Visibility that adds an "Example Control".
- * Version:             0.1.0
+ * Version:             0.2.0
  * Requires at least:   6.0
  * Requires PHP:        5.6
  * Author:              Nick Diego

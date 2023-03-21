@@ -1,6 +1,6 @@
 {
 	"name": "block-visibility-add-on-example",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "An example add-on for Block Visibility.",
 	"author": "Nick Diego",
 	"license": "GPL-2.0-or-later",
