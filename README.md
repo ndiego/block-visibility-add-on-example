@@ -6,8 +6,8 @@ This example add-on plugin for Block Visibility illustrates how to extend core f
 
 For a detailed walkthrough on how to extend Block Visibility and how this plugin was built, refer to the following resources.
 
-- Extending Block Visibility (Blog Article)
-- Developer Documentation
+- How to add custom controls to Block Visibility (Coming Soon)
+- [Filter & Slot Reference](https://blockvisibilitywp.com/knowledge-base/filter-slot-reference/)
 
 ## Installation
 
